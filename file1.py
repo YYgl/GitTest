@@ -7,3 +7,7 @@ def sum(a, b):
 def sub(a, b):
     c = a - b
     return c
+
+def mutiple(a, b)
+    c = a * b
+    return c
