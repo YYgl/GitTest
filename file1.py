@@ -12,4 +12,4 @@ def mutiple(a, b)
     c = a * b
     return c
 
-#love
+#dislike
